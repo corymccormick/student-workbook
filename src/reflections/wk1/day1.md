@@ -6,9 +6,6 @@ Read Building Blocks Of Web Development > GIT 101 and answer the following quest
 
 2. What are the benefits of having multiple branches?
 
-3. What is the difference between Git and GitHub
+3. What is the difference between Git and GitHub?
 
-##
-<!-- awnswer questions -->
 
-##
