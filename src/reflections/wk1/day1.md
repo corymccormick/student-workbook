@@ -1,6 +1,6 @@
 # day 1 
 
-Read Building Blocks Of Web Development > GIT 101 and answer the following questions
+# #Read Building Blocks Of Web Development > GIT 101 and answer the following questions
 
 1. In your own words, why do we use Git?
     We use git so we can keep track of changes made to files and for ease of collaboration with others.
