@@ -1,3 +1,5 @@
-# week one relections
+# day 5
+
+## week one relections
 - there is a great deal of terminology 
-- I feel Ive come much further in starting to understand html,css,and bootstrap. Still struggling, but only due to lack of even more practice and repetition.
+- I feel Ive come much further in starting to understand html,css,and bootstrap. Still slightly struggling and slow going, but only due to lack of even more practice and repetition.
