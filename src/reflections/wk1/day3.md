@@ -1,5 +1,6 @@
 # day 3
-Building Blocks Of Web Development 
+
+# #Building Blocks Of Web Development 
 
 1. What is your favorite tip that you think is the most beneficial to improving your design?
 keeping it clean cut and simple. 
