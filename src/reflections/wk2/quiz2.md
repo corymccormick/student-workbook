@@ -3,7 +3,7 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+The keywords used to Declare a variable within JavaScript include Var, Let and Const. 
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
