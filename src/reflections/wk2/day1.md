@@ -9,4 +9,5 @@ What is Hoisting ?
 where variables and functions are moved to the top of their scope before code execution
 
 In what cases might you use let vs const vs var?
-use const in an situation where the variable will not need to be redeclared
+use let in 
+use const in a case where the variable will not need to be redeclared
