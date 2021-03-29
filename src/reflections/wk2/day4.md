@@ -4,7 +4,7 @@
 
 1. What are the benefits of making a plan before starting to just write the code?
 
-The benefits could be it create a more clear structure which leads to a cleaner code.
+The benefits could be it creates a more clear structure which leads to a cleaner code.
 
 2. How do you find answers when you are stuck?
 
