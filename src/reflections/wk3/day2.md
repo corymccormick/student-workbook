@@ -13,3 +13,5 @@ It can lead to breaking changes, leaked implementation details, and an expanded 
 3. How do we create private variables in a ES6 Class? Why would you do this?
 
 We create private variables in a ES6 class by defining them within a factory or constructors scope. We would do this to enforce encapsulation.
+
+Afternoon Challenge: https://github.com/corymccormick/vending-machine

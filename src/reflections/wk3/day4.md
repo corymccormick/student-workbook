@@ -11,3 +11,5 @@ The Subscribe Method,The Unsubscribe Method, and The Broadcast Method.
 
 
 3. Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
+
+Afternoon Project: https://github.com/corymccormick/sporting-goods-store.git

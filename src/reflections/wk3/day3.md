@@ -12,3 +12,5 @@ To ensure the value you must return the value stored in that key in the Object.
 3. What are some of the benefits of the proxy object that we are using in our structure for applications?
 
 Some benefits might be in how the controller is able to manipulate and update the proxy object.
+
+Afternoon Project: https://github.com/corymccormick/gregslist.git
