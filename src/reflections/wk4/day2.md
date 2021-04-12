@@ -14,3 +14,4 @@ Promises may seek to resolve these issues with chaining which makes for a cleane
 the difference between these two methods is the then is called after a resolved promise. While a catch method is for rejected promises.
 
 Afternoon Challenge:
+https://corymccormick.github.io/gregslist/
