@@ -14,3 +14,5 @@
   -Keep your code shallow, by hoisting your functions
   -modularize, create reusable code and placing them in a module
   -handle everysingle error, run $standard to see every callback with an error an error in your code.
+
+  Afternoon Challenge:https://github.com/corymccormick/trivia.git

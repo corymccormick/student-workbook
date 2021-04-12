@@ -14,6 +14,8 @@ Stateless means the server does not remember anything about the user who uses th
 3. What URL pattern is used when writing a RESTful API?
 
 
+Afternoon Challenge: https://github.com/corymccormick/Music-Is-Fun.git
+
 Morning Challenge:S
 function timeConvert(min){
 let minutes = min % 60

@@ -15,7 +15,7 @@ The benefits coming from async/await include making your code simplier to read, 
 
 
 
-
+Afternoon Challenge: https://github.com/corymccormick/pokemonApi.git
 
 morning challenge:
 function factor (num){
