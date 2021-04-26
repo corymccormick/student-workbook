@@ -7,6 +7,8 @@ Lifecycle hooks are a window into how the library you're using works behind the 
 
 2. How have you utilized lifcycle hooks in your afternoon projects?
 
+We have utilized lifecycle hooks in projects when using onMounted.
+
 3. What are mounting hooks? When might you use them?
 
  Mounting hooks are a way to access your component immediately before and after the first render. You might use use them when you need to access or modify the DOM of your component immediately before or after the initial render.
