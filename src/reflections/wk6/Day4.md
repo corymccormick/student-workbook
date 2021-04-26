@@ -9,3 +9,4 @@ A nested route is a componenet placed within another component.
 
 
 3. Can you pass parameters through nested routes? When might you use them?
+yes, parameters might be used when addition data is needed
