@@ -10,3 +10,5 @@ Props are how we pass variables and other information around between different c
 
 3. Where can props be used or accessed?
 Props can be used or accessed by a child component.
+
+afternoon challenge: https://corymccormick.github.io/vue-day2/
