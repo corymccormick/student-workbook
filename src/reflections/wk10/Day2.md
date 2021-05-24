@@ -10,3 +10,5 @@ I think a couple of list methods you might use often include list.Add in order t
 
 3. How would you retrieve an item from a list? What method could you use?
 To reteive an item from a list use could use a method such as might use item.find. 
+
+afternoon challenge: https://github.com/corymccormick/gregslist-cs

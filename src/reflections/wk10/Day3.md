@@ -20,3 +20,5 @@ DELETE FROM table_name;
 DROP TABLE table_name;
 
 The difference between the above statements is delete from table will remove all data from the table, while drop table will delete the entire table.
+
+afternoon challenge: https://github.com/corymccormick/knights

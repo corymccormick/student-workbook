@@ -12,3 +12,5 @@ You can modify an Enum by setting its base type and its value that is valid for 
 3. How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 
 I have not yet used Enums in lab projects  an example of how I could use Emums might be 
+
+afternoon challenge: https://github.com/corymccormick/allspice

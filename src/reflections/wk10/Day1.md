@@ -11,3 +11,5 @@ The value-type data types are bool, char, and int. The differences from javaScri
 3. In your own words how do Reference types get stored in memory? How does this differ from Value types?
 
 Reference types get stored in memory by creating a refernce point to a location that holds the data's value. This differs from value types in that it is not stored within its own memory space.
+
+afternoon project: https://github.com/corymccormick/csday1
